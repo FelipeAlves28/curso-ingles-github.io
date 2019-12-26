@@ -1,0 +1,53 @@
+#titulo-consulta{
+    text-align: center;
+    color: purple;
+}
+
+.td-consulta{
+    color: white;
+    padding: 8px;
+    width: 13em;
+    text-align: center;
+    margin-left: 0;
+    margin-right:0;
+    background:rgb(161, 21, 161);
+
+}
+
+table{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+#botao-consulta{
+    width: 12em;
+    height: 2em;
+    color: white;
+    background: rgb(66, 189, 189);
+    font-weight: bold;
+    border-radius: 20px 20px
+}
+.posicao-botao{
+    margin-left: 5em;
+    margin-top: 40px;
+}
+
+#input-pesquisar{
+    width: 17em;
+    border-radius: 20px 20px;
+    border: gray solid 1px;
+}
+
+label{
+    color: rgb(116, 108, 108);
+}
+
+#botao-limpar{
+    width: 12em;
+    height: 2em;
+    color: white;
+    background: rgb(66, 189, 189);
+    font-weight: bold;
+    margin-left: 1em;
+    border-radius: 20px 20px;
+}

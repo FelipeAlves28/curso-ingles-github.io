@@ -1,0 +1,61 @@
+
+
+#titulo-login{
+    text-align: center;
+    color:white;
+}
+
+.titulo-empresa{
+    text-align: center;
+    color: white;
+    margin-top: 0em;
+}
+
+#input-loginsenha{
+    width: 20em;
+    border-radius: 20px 20px;
+    border: 1px solid gray;
+}
+
+#botao-login{
+    width: 12em;
+    height: 2em;
+    color: white;
+    background: rgb(66, 189, 189);
+    font-weight: bold;
+    border-radius: 20px 20px;
+}
+.posicao-botao{
+    margin-left: 0.5em;
+    margin-top: 1em;
+}
+#input-descricao{
+    width: 25em;
+    height: 8em;
+    border-radius: 20px 20px;
+    border: 1px solid gray;
+}
+
+.bloco-login{
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 23.5em;
+
+}
+
+#label-senha{
+    margin-right: 5em;
+    color: white;
+    font-size: 25px;
+}
+
+#label-usuario{
+    margin-right: 7.5em;
+    color: white;
+    font-size: 25px;
+}
+#label-cadastro{
+    color: white;
+}

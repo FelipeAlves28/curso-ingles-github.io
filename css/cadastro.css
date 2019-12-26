@@ -1,0 +1,41 @@
+label{
+    padding: 4px;
+    color:rgb(116, 108, 108);
+}
+
+#input-cadastro{
+    width: 25em;
+    border-radius: 20px 20px;
+    border: gray 1px solid;
+}
+
+#input-descricao{
+    width: 25em;
+    height: 8em;
+    resize: none;
+    border-radius: 20px 20px;
+}
+
+#cadastro-titulo{
+    margin-left: 30px;
+    color:rgb(116, 108, 108);
+    
+}
+#botao-cadastro{
+    width: 12em;
+    height: 2em;
+    color: white;
+    background: rgb(66, 189, 189);
+    font-weight: bold;
+    border-radius: 20px 20px;
+
+}
+.posicao-botao{
+    margin-left: 13em;
+    margin-top: 1em;
+}
+
+.posicao-form{
+    margin-right: auto;
+    margin-left: auto;
+}

@@ -1,0 +1,64 @@
+.nav-bar{
+    list-style-type: none;
+    overflow: hidden;
+    background-color:purple;
+}
+
+li{
+    float: left;
+}
+li a{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li a:hover{
+    background-color:rgb(161, 21, 161) ;
+    color: white ;
+}
+
+.nav-bar-centralizado{
+    display: inline-block;
+    margin-top: 5px;
+}
+
+#home{
+    font-family: 'Trebuchet MS';
+    color: white;   
+    background: purple;
+}
+
+#titulo-index{
+    color: rgb(116, 108, 108);
+}
+
+#posicao-titulo{
+    margin-top: -15px;
+}
+
+#row-home{
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .opcao-home{
+    background-color:rgb(216, 210, 210);
+    color: purple ;
+    border-radius: 10px 10px;  
+    border: gray solid 2px;
+    height:250px;
+}
+
+.opcao-home:hover, .opcao-home:active {
+    background-color:rgb(202, 195, 195); 
+    box-shadow: rgb(221, 217, 217) 0px 0px 10px 10px;
+}
+h2{
+    color: purple;
+}
+
+.posicao-h2{
+    margin-top: -20px;
+    text-align:center;
+}
