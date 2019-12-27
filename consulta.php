@@ -81,17 +81,7 @@ $link = conexao();
 	$query .= ($nome ? " AND nome LIKE '%$nome%' " : "");
 	$query .= " ORDER by $ordem";
     $result = mysqli_query($link, $query);
-	
 
-	
-	
-
-/*
-	echo "<pre>";
-	echo $query;
-	echo mysql_error();
-	echo "</pre>";
-*/
 	while($row_usuario = mysqli_fetch_assoc($result))
 	{
 		
